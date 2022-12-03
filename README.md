@@ -19,4 +19,5 @@
 &emsp;&emsp;&emsp;*functions* => draw 4*4 box of specific colour on displayer, that is initially all black.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;able to clear the box to black, and redraw.  
                     
-### Lab8 - 
+### Lab8 - Animation on the VGA Display
+**part1(only one part)**:&nbsp;implement lab7 to achieve animation (moving one coloured box automatically, change dir when reach the edge of the screen, start with upper left corner to the dir of lower right corner)
