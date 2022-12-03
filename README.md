@@ -3,8 +3,8 @@
 
 ### Lab2 - Multiplexers, Hierarchy, and HEX Displays  
 **part1**:&nbsp;implement the given mux module of mux2to1  
-**part2**:&nbsp;Disply nums by the HEX display, implemented by three chips in quartus library  
-**part3**:&nbsp;design a HEX decoder for 7-segment HEX display  
+**part2**:&nbsp;connect the mux with the gates formed by chips  
+**part3**:&nbsp;design a HEX decoder for 7-segment HEX display (Disply nums by the HEX display, implemented by three chips in quartus library)  
 
 ### Lab3 - 
 
