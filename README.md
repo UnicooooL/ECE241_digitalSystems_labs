@@ -1,11 +1,17 @@
 # ECE241_digitalSystems_labs
 ### Lab1 - 
 
-### Lab2 - 
+### Lab2 - Multiplexers, Hierarchy, and HEX Displays
+**part1**:&nbsp;implement the given mux module of mux2to1
+**part2**:&nbsp;Disply nums by the HEX display, implemented by three chips in quartus library
+**part3**:&nbsp;design a HEX decoder for 7-segment HEX display
 
 ### Lab3 - 
 
-### Lab4 - 
+### Lab4 - Latches, Flip-flops, and Registers
+**part1**:&nbsp;implement a gated D latch by using the chips represent gates in quartus library
+**part2**:&nbsp;build a primary-secondary flip-flop realised by an edge-triggered D flip-flop
+**part3**:&nbsp;build a rotating register
 
 ### Lab5 - 
 
